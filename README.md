@@ -27,7 +27,7 @@ Saya bergerak dari hulu ke hilir pengembangan produk digital — mulai dari anal
 | **Sistem Informasi Rental Mobil**<br>*(PT AKA Mendunia Sejahtera)* | Menganalisis alur bisnis rental, merancang UI/UX di Figma, membangun sistem reservasi dengan 5 level akses, integrasi payment gateway, dan fitur live-chat real-time. | `Laravel` `MySQL` `Reverb WebSocket` `Tailwind CSS` | [Kode Sumber](https://github.com/Tenku01/rental-mobil) |
 | **Portal Layanan Dusun Demangan**<br>*(Layanan Publik & Akuntabilitas)* | Merancang antarmuka transparansi keuangan kas desa (mutasi masuk/keluar), alur katalog & peminjaman inventaris warga secara mandiri, dan modul iuran listrik. | `Laravel` `Tailwind CSS` `Alpine.js` `MySQL` | [Kunjungi Website](https://dusundemangan.vercel.app/) |
 | **Platform Monitoring Tender**<br>*(TenderPlus.id)* | Merancang arsitektur informasi dan UI dashboard web agar data spasial serta tabel pengadaan barang/jasa vendor pemerintah mudah dinavigasi. | `Figma` `UI/UX Design` `Information Architecture` | [Desain Figma](https://www.figma.com/design/kouH9jZh3HPCACEdyQ9Fsn/Tenderplus----Copy-) |
-| **LIFE+ Healthcare SuperApp**<br>*(Aplikasi Mobile Kesehatan)* | 🥇 **Juara 1 Lomba Desain UI/UX** — Riset pengguna, penyusunan *user flow*, *wireframe*, dan prototipe interaktif *high-fidelity*. | `Figma` `User Research` `Design System` | [Desain Figma](https://www.figma.com/design/6iVSDNSshr5Cr1EXHY6LCU/Health---UI) |
+| **LIFE+ Healthcare SuperApp**<br>*(Aplikasi Mobile Kesehatan)* — Riset pengguna, penyusunan *user flow*, *wireframe*, dan prototipe interaktif *high-fidelity*. | `Figma` `User Research` `Design System` | [Desain Figma](https://www.figma.com/design/6iVSDNSshr5Cr1EXHY6LCU/Health---UI) |
 
 ---
 
